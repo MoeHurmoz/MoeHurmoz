@@ -1,4 +1,4 @@
-# Hi there, I'm Muhannad 👋
+# <p align="center">Hi there, I'm Muhannad 👋</p>
 
 A Front-end Developer specializing in building modern web interfaces and exceptional user experiences.
 
@@ -35,4 +35,4 @@ A Front-end Developer specializing in building modern web interfaces and excepti
 </p>
 
 ##
-Thank you for visiting my profile!
+<p align="center">Thank you for visiting my profile!</p>
